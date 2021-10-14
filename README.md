@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebDev, digital illustration, GameDev
 - 🌱 I’m currently learning WebDev
 
-I'm new in programming, but i'm looking for collaborion project.
+I'm new in programming, but i'm looking for collaboration project.
 and I will always learning...
 <!---
 satriahanifu/satriahanifu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
